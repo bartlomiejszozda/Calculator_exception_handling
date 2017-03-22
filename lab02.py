@@ -22,8 +22,8 @@ if operation == "log":
 
 if  operation == "der":
     print("podaj rownanie i zmienna po ktorej jest pochodna")
-    a = float(input())
-    b = float(input())
+    a = str(input())
+    b = str(input())
     print( calc.derivative(a,b))
 
 
