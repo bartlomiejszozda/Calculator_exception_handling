@@ -1,2 +1,1 @@
-sympy >= 1.0
-asd
++sympy >= 1.0
